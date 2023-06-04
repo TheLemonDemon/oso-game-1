@@ -261,3 +261,4 @@ label .btnet:
 
 label .tooly:
     "this scene is not available yet." # when implemeting Tooly, remember to leave room for Brand Soda interactions.
+    jump mainstreet
